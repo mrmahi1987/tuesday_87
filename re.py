@@ -1,1 +1,2 @@
 re == string
+re =! string
